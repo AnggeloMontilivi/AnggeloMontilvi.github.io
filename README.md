@@ -1,7 +1,7 @@
 # AnggeloMontilvi.github.io
-portafolio 
+Portadolio personal
 
-# 🚀 Projecte Symfony: [Nom del Projecte]
+# 🚀 Projecte Symfony: Turismos Clasicos
 
 Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servidor (DAW)**. És una aplicació web que permet [explicar breument la lògica: gestió d'usuaris, botiga, blog, etc.].
 
@@ -47,5 +47,5 @@ Pots consultar els detalls tècnics, diagrames de base de dades i guies d'usuari
    ```
 
 ## ✒️ Autor
-* **Nom:** [El teu nom]
+* **Nom:** Anggelo Collell Ramos
 * **Grup:** 2n DAW - Institut Montilivi
