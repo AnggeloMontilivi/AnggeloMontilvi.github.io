@@ -1,5 +1,6 @@
 # AnggeloMontilvi.github.io
 Portadolio personal
+https://anggelomontilivi.github.io/AnggeloMontilvi.github.io/
 
 # 🚀 Projecte Symfony: Turismos Clasicos
 
@@ -7,7 +8,9 @@ Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servido
 
 ## 📖 Documentació Completa
 Pots consultar els detalls tècnics, diagrames de base de dades i guies d'usuari a la nostra pàgina de documentació:
-👉 **[Enllaç a la teva GitHub Page]** (Ex: https://usuari.github.io/projecte/)
+- Landing Page 👉 https://github.com/Montilivi-DAW2/landing-page-grup-3-turismosclasicos-com.git
+- Backend 👉 https://github.com/Montilivi-DAW2/backend-grup-3-turismosclasicos-com.git
+- Frontend 👉 https://github.com/Montilivi-DAW2/frontend-grup-3-turismosclasicos-com.git
 
 ## 🛠️ Stack Tècnic
 - **Framework:** Symfony 7.x
